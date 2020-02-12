@@ -1,4 +1,5 @@
 # Recipe API
+A simple API that stores and returns recipe data in JSON
 
 ## How to set up
 
