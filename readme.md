@@ -32,9 +32,9 @@ Download the repo.
  Include in the body of the request the attributes to update. Ensure the content type is 'application/json'.
  ```
 {
-    	"marketing_description": "something",
-    	"title": "some title",
-    }
+   "marketing_description":"something",
+   "title":"some title"
+}
 ```
 
 ## TODOs
